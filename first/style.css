@@ -1,0 +1,25 @@
+.main-page {
+
+}
+.header {
+  background-color: #5E595D;
+  width: 100%;
+  height: 175px;
+  display: block;
+  margin:auto;
+}
+body {
+  background-color: #c4c4c4;
+}
+.middle {
+  background-color: #FFFFFF;
+  margin: auto;
+  width: 900px;
+  height: 700px;
+}
+.footer {
+  background-color: #020202;
+  width: 900px;
+  height: 75px;
+  margin:auto;
+}
